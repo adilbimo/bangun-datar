@@ -10,7 +10,7 @@ Semoga Bermanfaat 😇
 
 # Cara Menjalankannya : 
 
-# Linux : 
+# Linux/OS X : 
 $sudo apt install python3
 
 $sudo apt install git
