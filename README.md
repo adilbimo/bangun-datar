@@ -1,6 +1,6 @@
 # bangun-datar 
 
-*Menghitung Luas Sama Keliling*
+*Menghitung Luas Dan Keliling*
 
 *Gabut Buat Buat Aja*
 
