@@ -1,6 +1,6 @@
 # 📂 Bangun Datar 📂
 
-*⛔ Coded By Ario Bimo ⛔*
+*⛔ Coded By Bimo ⛔*
 
 *Menghitung Luas Dan Keliling*
 
