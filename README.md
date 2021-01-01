@@ -1,4 +1,4 @@
-# bangun-datar 
+# Bangun-Datar
 
 *Menghitung Luas Dan Keliling*
 
